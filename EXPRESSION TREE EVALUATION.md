@@ -1,9 +1,4 @@
-# Experiment 9(e): Expression Tree Evaluation
 
-## Aim
-To write a Python program to build and evaluate the given expression tree.
-
----
 # Ex.No:9C Expression Tree Evaluation
 
 ## Aim
