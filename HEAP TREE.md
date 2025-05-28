@@ -1,4 +1,4 @@
-# Ex.No:9D Heap Tree
+# Ex.No:9E Heap Tree
 
 ## Aim
 To write a Python program to build a heap tree using appropriate Python package and function.
